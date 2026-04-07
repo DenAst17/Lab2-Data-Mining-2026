@@ -1,0 +1,5 @@
+algorithm,pair,k,silhouette,davies_bouldin,time_sec
+k-Means,loudness + speechiness,2,0.6171922059722721,0.7875835667638383,0.0412
+k-Means,loudness + valence,3,0.42500583195609326,0.8158946243565132,0.0654
+k-Means,speechiness + valence,4,0.5252065215248566,0.6187040771119368,0.0567
+k-Means,energy + loudness,2,0.5407588030848636,0.716952313018771,0.0387

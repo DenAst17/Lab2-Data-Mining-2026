@@ -1,0 +1,18 @@
+[
+  [
+    "loudness",
+    "speechiness"
+  ],
+  [
+    "loudness",
+    "valence"
+  ],
+  [
+    "speechiness",
+    "valence"
+  ],
+  [
+    "energy",
+    "loudness"
+  ]
+]

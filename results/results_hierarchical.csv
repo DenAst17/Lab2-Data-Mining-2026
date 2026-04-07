@@ -1,0 +1,5 @@
+algorithm,pair,k,silhouette,davies_bouldin,time_sec
+Hierarchical,loudness + speechiness,2,0.5989194479045542,0.8327924964693366,2.3117
+Hierarchical,loudness + valence,3,0.3879552568117208,0.8500034272984963,2.6147
+Hierarchical,speechiness + valence,4,0.4884555288915608,0.6804197514085185,2.4842
+Hierarchical,energy + loudness,2,0.5407706630470024,0.7026902463384979,2.8289

@@ -1,0 +1,5 @@
+algorithm,pair,k,silhouette,davies_bouldin,time_sec
+KNN-clustering,loudness + speechiness,2,0.5989194479045542,0.8327924964693366,1.5745
+KNN-clustering,loudness + valence,3,0.3867244720710288,0.851777748308527,1.4169
+KNN-clustering,speechiness + valence,4,0.4884555288915608,0.6804197514085185,0.9279
+KNN-clustering,energy + loudness,2,0.5407706630470024,0.7026902463384979,1.147

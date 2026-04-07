@@ -1,0 +1,5 @@
+algorithm,pair,k,silhouette,davies_bouldin,time_sec
+DBSCAN,loudness + speechiness,2,0.8217278320231246,0.21700876482607412,1.0582
+DBSCAN,loudness + valence,1,,,0.492
+DBSCAN,speechiness + valence,2,0.80581283621856,0.2166332337432807,0.854
+DBSCAN,energy + loudness,2,0.43072938632570873,0.5686044356417083,0.7831
